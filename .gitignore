@@ -90,6 +90,8 @@ cookbook/12_context/demo-wiki-git/
 .conductor/
 .context/
 .codex/
+.zcode/
+.playwright-cli/
 
 # Private design documents (symlinked)
 /specs

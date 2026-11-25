@@ -2,6 +2,12 @@
 
 Instructions for AI coding agents (Claude Code, Codex, Cursor, etc.) working on this codebase.
 
+## 公司私有 Skill 平台交接记忆
+
+继续本项目的公司私有 Skill、AgentOS、MCP、Docker 沙箱或内网虚机工作前，先读仓库根目录 `PROJECT_MEMORY.md`，再按需读 `deploy/agent-os-mvp/README.md` 和 `deploy/agent-os-mvp/TEST_LOG.md`。区分已部署、已验证与尚未实现的能力；记忆中的历史授权不能代替当前任务所需授权。本文档与 `AGENTS.md` 为同一份内容（`AGENTS.md` 是指向本文件的符号链接）。
+
+沟通统一使用简体中文和公司服务口吻，表达专业、客观、简洁，不使用固定个人昵称。后续接入ERP身份认证时，按认证信息中的用户姓名称呼；尚未获取认证姓名时使用中性表达，不猜测姓名。此要求替代此前的固定昵称开头约定。
+
 ---
 
 ## Repository Structure
